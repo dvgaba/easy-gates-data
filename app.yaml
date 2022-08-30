@@ -10,4 +10,4 @@ easy-gates:
       -
         value: OPEN
         key: my.app
-        exclusive: false
+        exclusive: true
