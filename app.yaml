@@ -5,6 +5,10 @@ easy-gates:
       value: OPEN
       key: my.app
       exclusive: false
+    -
+      value: CLOSE
+      key: your.app
+      exclusive: false      
   - app: "app2"
     gates:
       -
